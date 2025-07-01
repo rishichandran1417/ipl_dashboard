@@ -58,6 +58,4 @@ You may use or modify it for educational and non-commercial purposes.
 ---
 
 ## 🙌 Acknowledgments
-
-- IPL data sourced from publicly available datasets (e.g., Kaggle)
 - Created for practice, portfolio, and learning purposes
