@@ -24,8 +24,7 @@ This dashboard is designed to provide a complete picture of the **IPL 2025 seaso
 
 - **Microsoft Power BI Desktop**
 - **Power Query**: Data transformation and cleaning
-- **DAX**: Custom KPIs like strike rate, average, and win percentage
-- **Interactive Visuals**: Bar charts, cards, slicers, and ranking visuals
+- **Interactive Visuals**: Bar charts, cards, slicers
 
 ---
 
